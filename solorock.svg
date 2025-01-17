@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="170.27586mm"
+   height="170.27585mm"
+   viewBox="0 0 643.56234 643.56227"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-76.453157,-229.77122)">
+    <g
+       id="g5">
+      <circle
+         style="fill:#b3b3b3;stroke:#868686;stroke-width:7.04882"
+         id="path1"
+         cx="398.23431"
+         cy="551.55237"
+         r="318.25674" />
+      <g
+         id="g4">
+        <g
+           id="g3-6"
+           style="fill:#000080;fill-opacity:1"
+           transform="translate(112.95156,-621.48148)">
+          <path
+             id="rect1-1"
+             style="fill:#000080;fill-opacity:1;stroke-width:5.5368"
+             d="m 133.7665,972.10907 c 117.76507,30.81383 246.2406,23.19511 358.4892,1.77444 l -7.47265,100.72829 c -114.78274,36.835 -229.41933,53.8715 -343.53249,0 z" />
+          <rect
+             style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:7.04882"
+             id="rect2-1"
+             width="41.593578"
+             height="303.41754"
+             x="141.19707"
+             y="1037.7496" />
+          <circle
+             style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:7.04882"
+             id="path2-5"
+             cx="133.98677"
+             cy="1342.2988"
+             r="47.955711" />
+          <g
+             id="g2-9"
+             transform="translate(-212.21382,5.2984941)"
+             style="fill:#000080;fill-opacity:1">
+            <rect
+               style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:7.04882"
+               id="rect2-8-8"
+               width="41.593578"
+               height="303.41754"
+               x="656.01172"
+               y="982.81165" />
+            <circle
+               style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:7.04882"
+               id="path2-9-4"
+               cx="649.27838"
+               cy="1291.0229"
+               r="47.955711" />
+          </g>
+        </g>
+        <g
+           id="g3"
+           style="fill:#5f20ff;fill-opacity:1"
+           transform="translate(97.380361,-629.57366)">
+          <path
+             id="rect1"
+             style="fill:#5f20ff;fill-opacity:1;stroke-width:5.5368"
+             d="m 133.7665,972.10907 c 117.76507,30.81383 246.2406,23.19511 358.4892,1.77444 l -7.47265,100.72829 c -114.78274,36.835 -229.41933,53.8715 -343.53249,0 z" />
+          <rect
+             style="fill:#5f20ff;fill-opacity:1;stroke:none;stroke-width:7.04882"
+             id="rect2"
+             width="41.593578"
+             height="303.41754"
+             x="141.19707"
+             y="1037.7496" />
+          <circle
+             style="fill:#5f20ff;fill-opacity:1;stroke:none;stroke-width:7.04882"
+             id="path2"
+             cx="133.98677"
+             cy="1342.2988"
+             r="47.955711" />
+          <g
+             id="g2"
+             transform="translate(-212.21382,5.2984941)"
+             style="fill:#5f20ff;fill-opacity:1">
+            <rect
+               style="fill:#5f20ff;fill-opacity:1;stroke:none;stroke-width:7.04882"
+               id="rect2-8"
+               width="41.593578"
+               height="303.41754"
+               x="656.01172"
+               y="982.81165" />
+            <circle
+               style="fill:#5f20ff;fill-opacity:1;stroke:none;stroke-width:7.04882"
+               id="path2-9"
+               cx="649.27838"
+               cy="1291.0229"
+               r="47.955711" />
+          </g>
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-weight:600;font-size:66.8846px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Semi-Bold';text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:14.7331"
+         x="363.69162"
+         y="619.34741"
+         id="text4"
+         transform="scale(1.141093,0.87635276)"><tspan
+           id="tspan4"
+           x="363.69162"
+           y="619.34741"
+           style="font-size:66.8846px;fill:#666666;stroke-width:14.7331">Solo</tspan><tspan
+           x="363.69162"
+           y="702.95319"
+           id="tspan5"
+           style="font-size:66.8846px;fill:#666666;stroke-width:14.7331">Rock</tspan></text>
+    </g>
+  </g>
+</svg>
