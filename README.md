@@ -1,23 +1,23 @@
 # solo-rock
-- Descargar los archivos antes de correr cualquier script 
 
-- Importante instalar lo mvp con el siguiente comando:
-- sudo apt install mpv --no-install-recommends
+_Este script te permite escuchar radios online_
 
-- ahora correr el comando
-- bash install.sh
+_Que necesitas instalar previamente?_
+_Instalar el reproductor **mpv** con el siguiente comando:_ 
+> `sudo apt install mpv --no-install-recommends`
 
-- el cual verificará si tienes instalado el comando mpv, el fichero solo-rock.desktop será creado 
-- en la ruta /usr/share/applications/
+_Si quieres instalarlo en tu distribución gnu/linux Ubuntu entonces correr el comando?_
+> `sudo bash install.sh`
 
-- Recordar que este script funciona principalmente con el comando mpv , asegurate de tenerlo
-- isntalado en tu sistema operativo linux, un tip si usas gnome desktop te recomiendo que luego
-- de instalar el script presiones las teclas Alt+F2 para que refresque la parrilla de aplicaciones
-- con el fin de que aparezca la aplicación recién instalada.
+_El script verificará si tienes instalado el comando **mpv**, luego de verificar, el fichero solo-rock.desktop será creado 
+en la ruta /usr/share/applications/_
 
-- Si estas en Xfce y al ejecutar te da error, puede ser que la terminal que usa por defecto
-- es otro, lo que se debe hacer es ir a: Settings >  Default Applications > Utilities > Terminal Emulator > escoger "Xfce Terminal"
+_Si solo quieres usar el script para escuchar muscia online entonces debes correr el comando_
+> `sudo bash solo-rock.sh`
 
-- Autor; Jenrry Soto Dextre
-- correo; dextre1481@gmail.com  -  jenrry.soto@materiagris.pe
+_Si estas usando el entorno de escritorio Xfce y al ejecutar te da error?, puede ser que la terminal que usa por defecto
+es otro, lo que se debe hacer es ir a: Settings >  Default Applications > Utilities > Terminal Emulator > escoger "Xfce Terminal"_
+
+- Autor; **Jenrry Soto Dextre**
+- Correo; dextre1481@gmail.com  -  jenrry.soto@materiagris.pe
 
