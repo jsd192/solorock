@@ -12,7 +12,7 @@ ejecutable=$PWD/solo-rock.sh
 cat > ~/.local/share/applications/solo-rock.desktop << EOF
 [Desktop Entry]
 Type=Application
-Categories=Utilitario
+Categories=GNOME;GTK;AudioVideo;Audio;Player;
 Name=Solo Rock
 Comment=Solo Rock
 Icon=$icono
